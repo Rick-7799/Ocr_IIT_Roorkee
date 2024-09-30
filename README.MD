@@ -91,7 +91,7 @@ To set up the environment and run the application, ensure you have the following
    Once all dependencies are installed, you can start the application with:
 
    ```bash
-   python app.py  # Ensure your script is named app.py
+   python app.py  
    ```
 
 2. **Access the Application**
